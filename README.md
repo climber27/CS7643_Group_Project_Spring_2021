@@ -19,7 +19,10 @@
      ```py
         !pip install -r requirements.txt
     ```
-
+Notes
+- Highly recommend buying [Colab Pro] ($10/mo) and extra [Google Drive Space] ($2/mo), which comes out to $12/mo and you can cancel right after your project is done.
 
 [Backup and Sync]: https://www.google.com/drive/download/
 [PyTest]: https://docs.pytest.org/en/6.2.x/getting-started.html
+[Colab Pro]:
+[Google Drive Space]: 
