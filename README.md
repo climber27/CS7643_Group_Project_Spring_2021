@@ -2,6 +2,7 @@
 
 ### Workflow
 
+General
 1) From local that is synced with Google Drive (see [Backup and Sync])
    - Develop on a separate branch from main. Preferably {your name}-{what you're doing}-{version}
       - Keep notebooks in `teams/{your name}/`
@@ -19,6 +20,12 @@
      ```py
         !pip install -r requirements.txt
     ```
+
+Things NOT to do:
+- Commit and upload to GitHub large files. Instead, put them in the `.gitignore` and then get a shared link and put that in `Share.md`. Large files include:
+  - Data
+  - Models (`.pth`)
+
 Notes
 - Highly recommend buying [Colab Pro] ($10/mo) and extra [Google Drive Space] ($2/mo), which comes out to $12/mo and you can cancel right after your project is done.
 
