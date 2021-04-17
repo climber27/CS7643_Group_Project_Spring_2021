@@ -24,5 +24,5 @@ Notes
 
 [Backup and Sync]: https://www.google.com/drive/download/
 [PyTest]: https://docs.pytest.org/en/6.2.x/getting-started.html
-[Colab Pro]:
-[Google Drive Space]: 
+[Colab Pro]:https://colab.research.google.com/signup
+[Google Drive Space]: https://one.google.com/about/plans
