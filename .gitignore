@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.vscode/
+
+# data
+*.pth
+*.csv
+*.tsv
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.pdf
+data/
