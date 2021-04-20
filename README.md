@@ -22,7 +22,7 @@ General
     ```
 
 Things NOT to do:
-- Commit and upload to GitHub large files. Instead, put them in the `.gitignore` and then get a shared link and put that in `Share.md`. Large files include:
+- Commit and upload to GitHub large files. Instead, put them in the `.gitignore` and then put them in the team drive:
   - Data
   - Models (`.pth`)
 

@@ -12,3 +12,7 @@
 *.jpeg
 *.pdf
 data/
+
+# external packages
+mmf/
+vilio/
