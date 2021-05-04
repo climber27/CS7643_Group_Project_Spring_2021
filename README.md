@@ -1,5 +1,9 @@
 # CS7643_Group_Project_Spring_2021
 
+## About
+
+All work was done in jupyter notebooks using boilerplate code from [Vilio](https://github.com/Muennighoff/vilio) and [PaddlePaddle](https://www.paddlepaddle.org.cn)'s [ERNIE-ViL](https://github.com/PaddlePaddle/ERNIE/tree/repro/ernie-vil)
+
 ### Workflow
 
 General
